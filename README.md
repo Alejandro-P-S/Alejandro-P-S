@@ -31,17 +31,8 @@ I love solving problems, building efficient applications, and continuously learn
 
 ---
 
-## 📈 GitHub Stats
-
-⚡ **My GitHub Stats:**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro-P-S&show_icons=true&theme=radical&count_private=true" alt="Alejandro's GitHub Stats" />
-</p>
-
----
-
 ## 📫 Connect with me
-* **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/alejandro-palazon-sanchez-4b0632385)
+* **LinkedIn:** [LinkedIn Profile URL](https://www.linkedin.com/in/alejandro-palazon-sanchez-4b0632385)
 * **Email:** [a.palazon.sanchez@accenture.com](mailto:a.palazon.sanchez@accenture.com)
 
 ---
